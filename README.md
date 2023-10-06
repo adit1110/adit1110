@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adit, I am 18 and I am currently in my first year of University.
+- 👋 Hi, I’m Adit, I am 19 and I am currently in my second year of University.
 - 👀 I’m interested in C++, Java and things in life that can help me get smarter
 - 📫 You can reach me at either email, or private messaging me on GitHub (does that exist?)
 
